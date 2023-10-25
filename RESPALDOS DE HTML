@@ -1,0 +1,63 @@
+<section class="centro">
+            <div class="centro__container">
+                <h1 class="centro__title">¿Que se te antoja hoy?</h1>
+            </div>
+            <div class="centro__menu">
+                <ul class="centro__link">
+                    <li class="centro__items">
+                        <a href="./Productos.html#panes" class="centro__links">Panes</a>
+                    </li>
+                    <li class="centro__items">
+                        <a href="./Productos.html#pasteles" class="centro__links">Pasteles</a>
+                    </li>
+                    <li class="centro__items">
+                        <a href="./Productos.html#postres" class="centro__links">Postres</a>
+                    </li>
+                    <li class="centro__items">
+                        <a href="#" class="centro__links">Bebidas</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="centro__imagenes">
+                <figure class="centro__picture">
+                    <img src="./images/Pan 1.jpg" alt="pan1" class="centro__img">
+                </figure>
+                <figure class="centro__picture">
+                    <img src="./images/Pan 2.jpg" alt="pan2" class="centro__img">
+                </figure>
+                <figure class="centro__picture">
+                    <img src="./images/Pan 3.jpg" alt="pan3" class="centro__img">
+                </figure>
+            </div>
+        </section><section class="centro">
+            <div class="centro__container">
+                <h1 class="centro__title">¿Que se te antoja hoy?</h1>
+            </div>
+            <div class="centro__menu">
+                <ul class="centro__link">
+                    <li class="centro__items">
+                        <a href="./Productos.html#panes" class="centro__links">Panes</a>
+                    </li>
+                    <li class="centro__items">
+                        <a href="./Productos.html#pasteles" class="centro__links">Pasteles</a>
+                    </li>
+                    <li class="centro__items">
+                        <a href="./Productos.html#postres" class="centro__links">Postres</a>
+                    </li>
+                    <li class="centro__items">
+                        <a href="#" class="centro__links">Bebidas</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="centro__imagenes">
+                <figure class="centro__picture">
+                    <img src="./images/Pan 1.jpg" alt="pan1" class="centro__img">
+                </figure>
+                <figure class="centro__picture">
+                    <img src="./images/Pan 2.jpg" alt="pan2" class="centro__img">
+                </figure>
+                <figure class="centro__picture">
+                    <img src="./images/Pan 3.jpg" alt="pan3" class="centro__img">
+                </figure>
+            </div>
+        </section>
